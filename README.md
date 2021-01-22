@@ -6,7 +6,8 @@ This was created only for **educationnal and demonstration purposes**, and is in
 ## Electronics:
 The electronics are based on an Arduino (I used the Uno but any with some analog inputs can be used). Here is the **electronic diagram of the model:**
 
-**TO DO**
+<img src="https://raw.githubusercontent.com/nohehf/imageSensorModel/main/images/schema_bb.png" width="700" height="700" /> 
+<img src="https://raw.githubusercontent.com/nohehf/imageSensorModel/main/images/schema.png" width="700" height="700" />
 
 ### My prototype build (9pixels, 3*3 image):
 (The solderings are very poor but it works).
