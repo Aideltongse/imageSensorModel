@@ -10,7 +10,7 @@ The electronics are based on an Arduino (I used the Uno but any with some analog
 
 ### My prototype build (9pixels, 3*3 image):
 (The solderings are very poor but it works).
-![First prototype build](https://raw.githubusercontent.com/nohehf/imageSensorModel/main/images/crappyPrototype.jpg =600x)
+![First prototype build](https://raw.githubusercontent.com/nohehf/imageSensorModel/main/images/crappyPrototype.jpg)
 ## Software:
 The software is divided in two scripts: The **Arduino script** which reads the Analog values of each resistor in the matrix and send them in a particular format to the Serial port.
 The **Processing script** then retrives the values via the Serial port (COM), map the values from 10bit to 8bit, and displays them on the screen. It also provides two sliders in order to adjust the contrast.
